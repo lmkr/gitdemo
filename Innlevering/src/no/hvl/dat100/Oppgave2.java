@@ -9,5 +9,11 @@ public class Oppgave2 {
 		System.out.println("Oppgave 2");
 		
 	}
+	
+	public static void metode1(String[] args) {
+		
+		System.out.println("metode 1");
+		
+	}
 
 }
