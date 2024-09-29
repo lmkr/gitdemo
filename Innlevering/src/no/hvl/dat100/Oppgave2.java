@@ -4,9 +4,9 @@ public class Oppgave2 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Oppgave B");
+		System.out.println("Oppgave main");
 
-		System.out.println("Oppgave B");
+		System.out.println("Oppgave main");
 		
 	}
 	
