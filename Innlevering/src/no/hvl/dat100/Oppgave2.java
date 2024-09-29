@@ -6,6 +6,8 @@ public class Oppgave2 {
 		
 		System.out.println("Oppgave 2");
 
+		System.out.println("Oppgave 2");
+		
 	}
 
 }
