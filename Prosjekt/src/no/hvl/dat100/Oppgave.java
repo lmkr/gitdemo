@@ -12,4 +12,7 @@ public class Oppgave {
 		return 0;
 	}
 
+	public int white_mode() {
+		return 1;
+	}
 }
