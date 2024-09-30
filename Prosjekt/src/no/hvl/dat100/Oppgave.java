@@ -7,5 +7,9 @@ public class Oppgave {
 		System.out.println("White mode developer");
 		
 	}
+	
+	public int black_mode() {
+		return 0;
+	}
 
 }
