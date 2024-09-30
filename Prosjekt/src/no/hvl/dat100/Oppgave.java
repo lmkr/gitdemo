@@ -8,4 +8,7 @@ public class Oppgave {
 		
 	}
 
+	public int white_mode() {
+		return 1;
+	}
 }
